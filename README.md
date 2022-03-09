@@ -1,35 +1,23 @@
-# _{Application Name}_
+# _Pig Dice_
 
-#### By _**{List of contributors}**_
-
-#### _{Brief description of application}_
-
-## Technologies Used
-
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+#### By _**Justice Douglas**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is a web appliction game where two players battle until one of them successfully achieves a score of 100. The game starts with player 1 rolling the dice, and each dice roll result adds to the player's current score. However, if the current player rolls a 1, it automaticallys ends their turn and their current score is reduced to 0. To avoid this, players can elect to hold their score which will change player turns but add their current score to their own total game score in the quest to reach 100 before the other player does._
+
+## Technologies Used
+
+* _JavaScript_
+* _HTML_
+* _CSS_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-## Known Bugs
-
-* _Any known issues_
-* _should go here_
+* _Clone project from repository_
+* _Open index.html_
+* _Enjoy the game_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+_This web application was built through the utilization of "The Complete JavaScript Course 2022: From Zero to Expert!" by Jonas Schmedtmann._
